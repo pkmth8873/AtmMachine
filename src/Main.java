@@ -13,7 +13,7 @@ public class Main {
             while (true) {
                 System.out.println("1.Check Available Balance :");
                 System.out.println("2.Withdraw Amount :");
-                System.out.println("3.Dosposit Amount : ");
+                System.out.println("3.Deposit Amount : ");
                 System.out.println("4.Mini Statement :");
                 System.out.println("5.Exit");
                 System.out.println("Enter the choice :");
