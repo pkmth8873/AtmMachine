@@ -1,2 +1,2 @@
 # AtmMachine
-In this project How to check account balance, dosposit, withdraw and Ministatement
+In this project How to check account balance, dosposit Money , withdraw Money and get Ministatement.
